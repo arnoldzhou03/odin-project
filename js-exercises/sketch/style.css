@@ -1,15 +1,15 @@
 #container {
     display: flex;
     flex-wrap: wrap;
-    width: 672px;
+    width: 600px;
+    height: 600px;
 }
 
 .cell {
     background-color: white;
-    width: 30px;
-    height: 30px;
-    border: 1px solid;
-    margin: 5px;
+    /* width: 60px;
+    height: 60px; */
+    outline: 1px solid;
 }
 
 .hovered {
